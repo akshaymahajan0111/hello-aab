@@ -6,7 +6,7 @@
     "command": "./say-hello",
     "greeting": "Hello, World!",
     "subheading": "Glad you made it. Your tiny corner of the internet is ready.",
-    "status": "system status: all green",
+    "status": "system status: all good",
     "footer": "built with curiosity · press any key to begin"
   }
 }
