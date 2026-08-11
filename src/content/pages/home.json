@@ -1,0 +1,12 @@
+{
+  "terminal": {
+    "brand": "hello.world",
+    "windowTitle": "welcome.sh",
+    "prompt": "visitor@hello-world:~$",
+    "command": "./say-hello",
+    "greeting": "Hello, World!",
+    "subheading": "Glad you made it. Your tiny corner of the internet is ready.",
+    "status": "system status: all green",
+    "footer": "built with curiosity · press any key to begin"
+  }
+}
